@@ -1,6 +1,6 @@
 <img src="image/logo.jpg" alt="公司 Logo" style="width: 100%; display: block;">
 
-- [OneWonder](https://www.onewonder.co.jp/) はクラウドコンピューティングに特化したサービスを提供しています
+- [OneWonder](https://next.onewonder.co.jp/) はクラウドコンピューティングに特化したサービスを提供しています
 ## 使用技術一覧
 
 <img src="https://img.shields.io/badge/-Microsoft-666666.svg?logo=microsoft&style=popout">
@@ -123,6 +123,6 @@ pipelinesの設定：</br>
 リソース作成完了でした。
 
 #### 連絡先
-蔡：yj.cai@onewonder.jp</br>
+蔡：inje.sai@onewonder.co.jp</br>
 
 王：xingran.wang@onewonder.co.jp
