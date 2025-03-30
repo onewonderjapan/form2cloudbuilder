@@ -1,4 +1,3 @@
-# 分支导航
-
-- [当前分支 (main)](../../tree/main) - 默认分支
-- [Azure 到 AWS 资源迁移 (azure2awsResource)](../../tree/azure2awsResource) - AWS 和 Azure 资源迁移工具
+# ナビゲーションバー
+- [メインブランチ (main)](../../tree/main) - Form2CloudBuilder1.0 プロジェクトのメインブランチ
+- [Azure から AWS リソース移行 (azure2awsResource)](../../tree/azure2awsResource) - Microsoft Forms から AWS/Azure リソースを自動作成するツール
